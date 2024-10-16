@@ -7,4 +7,4 @@ function sayHello(firstname, hour) {
         document.querySelector('h1').innerText = message;
      }
     } 
-sayHello("Beyonce", 15);
+sayHello(UserInput, 15);
